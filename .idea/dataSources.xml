@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - estore@localhost" uuid="424b1ac6-a108-4a4c-8d96-71f66ce1a5b8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/estore</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="shops@116.62.33.159" uuid="fb6a6acf-0d97-4227-be26-9bc755c2bf78">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://116.62.33.159:3306/shops</jdbc-url>
+    </data-source>
+  </component>
+</project>

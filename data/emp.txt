@@ -1,0 +1,7 @@
+id,name,salary,dept_id
+1,jake.hu,3400,1
+2,tom.zhang,2300,2
+3,lili.zhang,4300,1
+4,rose.li,2500,3
+5,kevin.li,3400,1
+6,briup.hu,2700,3

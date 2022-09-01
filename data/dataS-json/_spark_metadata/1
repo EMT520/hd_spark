@@ -1,0 +1,4 @@
+v1
+{"path":"file:///D:/IntelliJ%20IDEA%202020.1.4/ideaProjects/hd_spark/data/dataS-json/part-00000-809cceb0-50e7-4530-bb37-b507a0021d80-c000.json","size":23,"isDir":false,"modificationTime":1654659749332,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/IntelliJ%20IDEA%202020.1.4/ideaProjects/hd_spark/data/dataS-json/part-00001-882f9846-9cdc-4933-83eb-fedc4c036fad-c000.json","size":23,"isDir":false,"modificationTime":1654659749332,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/IntelliJ%20IDEA%202020.1.4/ideaProjects/hd_spark/data/dataS-json/part-00002-01093f66-1159-4a78-ad2a-07df36c7676b-c000.json","size":23,"isDir":false,"modificationTime":1654659749347,"blockReplication":1,"blockSize":33554432,"action":"add"}
